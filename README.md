@@ -32,4 +32,5 @@ sid gore
 23. vim .gitignore --> If we don't want to add or commit any file then we will create this .gitignore file & add that filename in this file so, that specific file will not be added to a staging area from untracked area
 24. git clone ssh-url --> To copy remote repo. to the local
 25. Fork - Goto any diffrent accounts repo. on github & clicked on fork buttom then you will get that repos. copy in your account 
- 
+26. git clone -b dev ssh-url --> To copy any specific branch remote repo. to the local
+27. 
