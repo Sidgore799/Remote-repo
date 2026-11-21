@@ -33,4 +33,4 @@ sid gore
 24. git clone ssh-url --> To copy remote repo. to the local
 25. Fork - Goto any diffrent accounts repo. on github & clicked on fork buttom then you will get that repos. copy in your account 
 26. git clone -b dev ssh-url --> To copy any specific branch remote repo. to the local
-27. 
+27. pull requests --> New pull request --> select from where to where changes want to do -->Create pull request --> Add description --> create pull request --> Merge request --> Confirm merge
